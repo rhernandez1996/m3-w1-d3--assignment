@@ -1,0 +1,22 @@
+{
+  "name": "m3-w1-d3--assignment",
+  "version": "1.0.0",
+  "description": "lab assignment",
+  "main": "index.js",
+  "scripts": {
+    "test": "git repository, keywords",
+    "start": "node server",
+    "watch": "nodemon ./start.js"
+  },
+  "author": "Rayven Hernandez",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-validator": "^6.14.2",
+    "pug": "^3.0.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
